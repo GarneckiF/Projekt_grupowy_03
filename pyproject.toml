@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "group-03-debris-analyzer"
+version = "0.1.0"
+description = "Śmieci kosmiczne według właściciela"
+authors = ["IDSiK course team"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.14"
